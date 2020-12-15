@@ -17,3 +17,6 @@ This is the shop view after you complete gameplay tutorial for the first time in
 
 # Got interested? Find out more about the game!
 https://unetongames.wixsite.com/soulodyssey
+
+# Try out our game here!
+https://play.google.com/store/apps/details?id=com.uneton.soulodyssey
