@@ -14,3 +14,6 @@ This is the shop view after you complete gameplay tutorial for the first time in
 
 ![Water enemies](https://github.com/mikael-leinonen/OGL-project/blob/main/Adventure_ui.jpg?raw=true)
 ![Flying enemies](https://github.com/mikael-leinonen/OGL-project/blob/main/Adventure_ui%202.jpg?raw=true)
+
+# Got internested? Find out more about game!
+https://unetongames.wixsite.com/soulodyssey
